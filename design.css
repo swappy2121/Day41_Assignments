@@ -1,0 +1,57 @@
+*{
+    margine:0;
+    padding:0;
+    background-image: url(cat.jpg);
+}
+
+.logo img{
+    display:center;
+    justify-content: center;
+    width:82px;
+    margin:0;
+    border-radius: 30px;
+    border: 4px solid white;
+    
+}
+.list div a:hover{
+    color:aqua;
+}
+.list div a{
+    display:inline;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px ;
+    font-style: italic;
+    color: white;
+}
+.Address pre{
+    font-style: italic;
+    color :white;
+
+
+}
+.main{
+
+    margin: 0;
+    background-position: 70%;
+    background-size: 102%;
+
+}
+.main div{
+    padding-left: 14px;
+}
+.info pre{
+    color:white;
+    font-size: 18px;
+    background-position: 5px;
+    background-size: 101%;
+    
+}
+.info pre:hover{
+    color:aqua;
+}
+
+
+
+
+
